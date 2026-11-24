@@ -80,8 +80,8 @@ Explore my repositories to follow my progress.
 
 I'm always interested in connecting with people passionate about Artificial Intelligence, Machine Learning, technology, and innovation.
 
-- GitHub: [Your GitHub Profile](https://github.com/pareshpatil2005)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/paresh-patil-747bb2285)
+- GitHub: [My GitHub Profile](https://github.com/pareshpatil2005)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/paresh-patil-747bb2285)
 - Email: patilparesh874@gmail.com
 
 ---
